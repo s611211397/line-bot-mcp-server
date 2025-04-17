@@ -4,6 +4,7 @@
     "moduleResolution": "Bundler",
     "target": "ES2022",
     "esModuleInterop": true,
+    "strict": true,
     "noImplicitAny": true,
     "newLine": "LF",
     "sourceMap": true,
